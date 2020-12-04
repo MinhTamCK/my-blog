@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Tại sao lại là pi?"
+date:   2020-12-04 13:46:40
+categories: jekyll update
+---
+Pi đặc biệt ở chỗ nào?
+
+Hình dưới đây giải thích tại sao chu vi hình tròn bằng 3,14 lần đường kính, chính là con số Pi. Từ sự thật đơn giản này, Pi trở thành một con số vô cùng quan trọng trong khoa học. Pi trong hình học
+
+Còn nhiều kì diệu và bí ẩn ở con số 3,14 nữa. Ví dụ như người ta cho rằng vì Pi là vô tận => code vô tận, ta có thể tìm thấy bất cứ thứ gì tại đó: số ngày tháng năm sinh trùng hoàn toàn với bạn, số điện thoại y hệt số bạn hiện tại hay thậm chí, ý nghĩa của sự sống và của sự tồn tại.
