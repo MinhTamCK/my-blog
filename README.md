@@ -1,3 +1,3 @@
-# jekyll-base
+# codepi.xyz
 
-Fresh Jekyll install from running "jekyll new ..."
+This is blog base on Jekyll
