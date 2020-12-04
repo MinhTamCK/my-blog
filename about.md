@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Tam and i'm full stack website developer.
+My name is Tam and I'm full stack website developer.
 
 I like creation and new technical, i want write some note, experience when i working for me and share to everyone.
 
